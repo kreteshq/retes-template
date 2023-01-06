@@ -8,6 +8,3 @@ const routes = [
 
 const app = new ServerApp(routes);
 await app.start(3000);
-
-console.log('Server started on port 3000');
-
