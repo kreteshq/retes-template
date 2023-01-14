@@ -14,7 +14,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "retes": "^0.35.0"
+    "retes": "^0.36.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
